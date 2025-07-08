@@ -247,6 +247,16 @@ graph TD
 
 <div align="center">
 
+## 🟩 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1046prt&bg_color=0d1117&color=00d9ff&line=00ffff&point=ffffff&area=true&hide_border=true" width="95%"/>
+</a>
+
+</div>
+
 ### 🎯 Fun Facts About Me
 
 ```javascript
