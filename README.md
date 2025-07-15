@@ -1,9 +1,6 @@
-# 🚀 Prakash Raj | AI × Web Developer
-
 <div align="center">
 
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Prakash+Raj+%F0%9F%91%8B;Data+Scientist+%26+Full+Stack+Dev;Building+AI-Powered+EdTech+Solutions;Let's+Build+Something+Amazing!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Prakash+Raj+%F0%9F%91%8B;Data+Scientist+%26+Full+Stack+Dev)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -15,11 +12,11 @@
 
 ## 🎯 What I Do
 
-<div align="center">
+<div align="left">
 
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
-│  🤖 AI & Machine Learning    🌐 Full Stack Development      │
+│  🤖 AI & Machine Learning    🌐 Full Stack Development     │
 │  📊 Data Science & Analysis  🎨 UI/UX Design               │
 │  🚀 EdTech Solutions        🔧 Open Source Contributions   │
 ╰─────────────────────────────────────────────────────────────╯
@@ -31,7 +28,7 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -95,7 +92,7 @@ def analyze_stocks():
     return "Data + Insights = Profit! 💰"
 ```
 
-[🔗 View Project](https://github.com/1046prt/StockScope)
+[🔗 View Project](https://github.com/1046prt/stock)
 
 </td>
 </tr>
@@ -116,7 +113,7 @@ def analyze_stocks():
 }
 ```
 
-[🔗 View Project](https://github.com/1046prt/EduForm)
+[🔗 View Project](https://github.com/1046prt/Student_Management_System)
 
 </td>
 <td width="50%">
@@ -135,7 +132,7 @@ else:
     return "✅ Safe to read!"
 ```
 
-[🔗 View Project](https://github.com/1046prt/spam-detector)
+[🔗 View Project](https://github.com/1046prt/spam_detector)
 
 </td>
 </tr>
@@ -147,7 +144,7 @@ else:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=1046prt&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="180"/>
 
@@ -161,7 +158,7 @@ else:
 
 ## 🎯 Current Focus
 
-<div align="center">
+<div align="left">
 
 ```mermaid
 graph TD
@@ -188,10 +185,9 @@ graph TD
 
 ## 🎨 Design Philosophy
 
-<div align="center">
+<div align="left">
 
 > *"Great design is not just what it looks like and feels like. Great design is how it works."*
-> 
 > **— Steve Jobs**
 
 **My Design Principles:**
@@ -207,15 +203,15 @@ graph TD
 
 ## 🎵 Coding Playlist
 
-<div align="center">
+<div align="left">
 
 ```
 🎵 Currently Coding To:
 ┌─────────────────────────────────────┐
-│ ♫ Synthwave Mix 2024               │
-│ ♫ Lo-fi Hip Hop Beats              │
-│ ♫ Cyberpunk Ambient                │
-│ ♫ Focus Deep Work Playlist         │
+│ ♫ Synthwave Mix 2024                │
+│ ♫ Lo-fi Hip Hop Beats               │
+│ ♫ Cyberpunk Ambient                 │
+│ ♫ Focus Deep Work Playlist          │
 └─────────────────────────────────────┘
 ```
 
@@ -225,12 +221,12 @@ graph TD
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-raj-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prakashraj.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prakashraj_dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakash@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prakashraj.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1046prt)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1046prt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1046prt@gmail.com)
 
 ### 💬 Let's Build Something Amazing Together!
 
@@ -245,11 +241,11 @@ graph TD
 
 ---
 
-<div align="center">
-
+<div align="left">
+  
 ## 🟩 Contribution Graph
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1046prt&bg_color=0d1117&color=00d9ff&line=00ffff&point=ffffff&area=true&hide_border=true" width="95%"/>
@@ -268,8 +264,6 @@ const prakashRaj = {
     motto: "Code with passion, design with purpose! 🚀"
 };
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
 ### 🎨 Profile Stats
 
