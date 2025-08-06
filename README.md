@@ -177,9 +177,14 @@ else:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1046prt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="180"/>
 
+
 </div>
 
 ---
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1046prt&theme=tokyonight)](https://github.com/1046prt)
+
 
 <div align="left">
   
