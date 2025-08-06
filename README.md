@@ -153,22 +153,6 @@ else:
 
 ---
 
-## 🎨 Design Philosophy
-
-<div align="left">
-
-**My Design Principles:**
-
-- 🎯 **User-Centric**: Every pixel serves a purpose
-- 🌈 **Vibrant**: Bold colors that inspire action
-- ⚡ **Fast**: Performance is a feature, not an afterthought
-- 🔄 **Interactive**: Static is boring, motion tells stories
-- 🌙 **Adaptive**: Dark mode isn't optional, it's essential
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="left">
@@ -185,6 +169,7 @@ else:
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1046prt&theme=tokyonight)](https://github.com/1046prt)
 
+---
 
 <div align="left">
   
@@ -198,7 +183,7 @@ else:
 
 </div>
 
-### Profile Stats
+### 📊 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1046prt&label=Profile+Views&color=00d9ff&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/1046prt?label=Followers&style=for-the-badge&color=00d9ff)
