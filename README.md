@@ -63,93 +63,63 @@
 
 <table>
 <tr>
+
+<!-- Project Card 1 -->
 <td width="50%">
-
-## 🎮 abcdkbd Platform
-
-### Interactive Learning hub for Kids
-
-- 🌍 Multilingual support with animated games
-- 🎵 Audio feedback and touch interactions
-- 🎨 SVG-powered beautiful UI
-- 📱 Mobile-responsive design
-
-```bash
-const learningMagic = () => {
-  return "Education + Fun = Success! 🚀"
-}
-```
-
-[🔗 View Project](https://github.com/1046prt/abcd)
-
+<a href="https://github.com/1046prt/abcd" target="_blank">
+<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.3); transition: transform 0.3s ease; display:block;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+<img src="[https://github.com/1046prt/abcdkbd/blob/main/public/logo.png](https://github.com/1046prt/abcd/blob/main/public/assets/icons/logo.svg)" width="100" style="border-radius:10px;" />
+<h3 style="color:#00d9ff;">🎮 abcdkbd Platform</h3>
+<p style="color:#c9d1d9;">Multilingual Interactive Learning Hub for Kids with games, audio feedback & animations.</p>
+<img src="https://img.shields.io/badge/Tech-React%20%7C%20Astro%20%7C%20Tailwind-blue?style=flat-square"/>
+</div>
+</a>
 </td>
+
+<!-- Project Card 2 -->
 <td width="50%">
-
-## 📈 Stock Dashboard
-
-### **Real-time Stock Analysis Dashboard**
-
-- ⚡ Lightning-fast static site
-- 📊 Interactive SVG charts
-- 💹 20+ stock tickers tracked
-- 🔄 Real-time data updates
-
-```bash
-def analyze_stocks():
-    return "Data + Insights = Profit! 💰"
-```
-
-[🔗 View Project](https://github.com/1046prt/stock)
-
+<a href="https://github.com/1046prt/stock" target="_blank">
+<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+<img src="https://cdn-icons-png.flaticon.com/512/2331/2331947.png" width="100" style="border-radius:10px;" alt="Stock Dashboard"/>
+<h3 style="color:#ffd700;">📈 Stock Dashboard</h3>
+<p style="color:#c9d1d9;">Real-time stock analysis with interactive charts & live updates.</p>
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20Astro%20%7C%20Chart.js-orange?style=flat-square"/>
+</div>
+</a>
 </td>
+
 </tr>
 <tr>
+
+<!-- Project Card 3 -->
 <td width="50%">
-
-## 🎓 Student Management System
-
-### Modern Course Registration System
-
-- 🌙 Dark/Light theme toggle
-- 📱 Responsive design
-- 🎨 Custom SVG icons
-- ⚡ Fast form processing
-
-```bash
-.modern-design {
-  beauty: "maximum";
-  functionality: "optimal";
-}
-```
-
-[🔗 View Project](https://github.com/1046prt/Student_Management_System)
-
+<a href="https://github.com/1046prt/Student_Management_System" target="_blank">
+<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+<img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="100" style="border-radius:10px;" alt="Student Management"/>
+<h3 style="color:#64ffda;">🎓 Student Management System</h3>
+<p style="color:#c9d1d9;">Course registration system with dark/light mode & custom icons.</p>
+<img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-lightgrey?style=flat-square"/>
+</div>
+</a>
 </td>
+
+<!-- Project Card 4 -->
 <td width="50%">
-
-## 🛡️Spam Detector
-
-### Intelligent Email Filtering
-
-- 🤖 Machine learning powered
-- 📊 Live prediction visualization
-- 🎯 99%+ accuracy rate
-- 📈 Real-time performance graphs
-
-```bash
-if email == "spam":
-    return "🚫 Blocked!"
-else:
-    return "✅ Safe"
-```
-
-[🔗 View Project](https://github.com/1046prt/spam_detector)
-
+<a href="https://github.com/1046prt/spam_detector" target="_blank">
+<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(255, 75, 75, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="100" style="border-radius:10px;" alt="Spam Detector"/>
+<h3 style="color:#ff4b4b;">🛡️ Spam Detector</h3>
+<p style="color:#c9d1d9;">ML-powered intelligent email filtering with live prediction graphs.</p>
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20TensorFlow%20%7C%20Streamlit-red?style=flat-square"/>
+</div>
+</a>
 </td>
+
 </tr>
 </table>
 
 </div>
+
 
 ---
 
