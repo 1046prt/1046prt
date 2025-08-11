@@ -11,13 +11,14 @@
 
 <div align="left">
 
-```ascii
-╭─────────────────────────────────────────────────────────────╮
-│  🤖 AI & Machine Learning    🌐 Full Stack Development     │
-│  📊 Data Science & Analysis  🎨 UI/UX Design               │
-│  🚀 EdTech Solutions         🔧 Open Source Contributions  │
-╰─────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <kbd>🤖 AI & Machine Learning</kbd>
+  <kbd>🌐 Full Stack Development</kbd>
+  <kbd>📊 Data Science & Analysis</kbd>
+  <kbd>🎨 UI/UX Design</kbd>
+  <kbd>🚀 EdTech Solutions</kbd>
+  <kbd>🔧 Open Source Contributions</kbd>
+</p>
 
 </div>
 
@@ -59,7 +60,7 @@
 
 ## 🎨 Featured Projects
 
-<div align="center">
+<div align="left">
 
 <table>
 <tr>
@@ -67,10 +68,15 @@
 <!-- Project Card 1 -->
 <td width="50%">
 <a href="https://github.com/1046prt/abcd" target="_blank">
-<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.3); transition: transform 0.3s ease; display:block;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-<img src="[https://github.com/1046prt/abcdkbd/blob/main/public/logo.png](https://github.com/1046prt/abcd/blob/main/public/assets/icons/logo.svg)" width="100" style="border-radius:10px;" />
+<div align="center" style="
+  padding:15px;
+  border-radius:15px;
+  background:linear-gradient(145deg,#0d1117,#0f172a);
+  box-shadow: 0 4px 15px rgba(0, 217, 255, 0.3);
+  transition: all 0.3s ease;">
+<img src="https://github.com/1046prt/abcd/blob/main/public/assets/icons/logo.svg" width="80" style="border-radius:10px;" />
 <h3 style="color:#00d9ff;">🎮 abcdkbd Platform</h3>
-<p style="color:#c9d1d9;">Multilingual Interactive Learning Hub for Kids with games, audio feedback & animations.</p>
+<p style="color:#c9d1d9; font-size: 14px;">Multilingual Interactive Learning Hub for Kids with games, audio feedback & animations.</p>
 <img src="https://img.shields.io/badge/Tech-React%20%7C%20Astro%20%7C%20Tailwind-blue?style=flat-square"/>
 </div>
 </a>
@@ -79,10 +85,15 @@
 <!-- Project Card 2 -->
 <td width="50%">
 <a href="https://github.com/1046prt/stock" target="_blank">
-<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn-icons-png.flaticon.com/512/2331/2331947.png" width="100" style="border-radius:10px;" alt="Stock Dashboard"/>
+<div align="center" style="
+  padding:15px;
+  border-radius:15px;
+  background:linear-gradient(145deg,#0d1117,#1a1f2e);
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
+  transition: all 0.3s ease;">
+<img src="https://cdn-icons-png.flaticon.com/512/2331/2331947.png" width="80" style="border-radius:10px;" />
 <h3 style="color:#ffd700;">📈 Stock Dashboard</h3>
-<p style="color:#c9d1d9;">Real-time stock analysis with interactive charts & live updates.</p>
+<p style="color:#c9d1d9; font-size: 14px;">Real-time stock analysis with interactive charts & live updates.</p>
 <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Astro%20%7C%20Chart.js-orange?style=flat-square"/>
 </div>
 </a>
@@ -94,10 +105,15 @@
 <!-- Project Card 3 -->
 <td width="50%">
 <a href="https://github.com/1046prt/Student_Management_System" target="_blank">
-<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="100" style="border-radius:10px;" alt="Student Management"/>
+<div align="center" style="
+  padding:15px;
+  border-radius:15px;
+  background:linear-gradient(145deg,#0d1117,#112221);
+  box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3);
+  transition: all 0.3s ease;">
+<img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="80" style="border-radius:10px;" />
 <h3 style="color:#64ffda;">🎓 Student Management System</h3>
-<p style="color:#c9d1d9;">Course registration system with dark/light mode & custom icons.</p>
+<p style="color:#c9d1d9; font-size: 14px;">Course registration system with dark/light mode & custom icons.</p>
 <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-lightgrey?style=flat-square"/>
 </div>
 </a>
@@ -106,10 +122,15 @@
 <!-- Project Card 4 -->
 <td width="50%">
 <a href="https://github.com/1046prt/spam_detector" target="_blank">
-<div style="padding:15px; border-radius:15px; background:#0d1117; box-shadow: 0 4px 15px rgba(255, 75, 75, 0.3); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="100" style="border-radius:10px;" alt="Spam Detector"/>
+<div align="center" style="
+  padding:15px;
+  border-radius:15px;
+  background:linear-gradient(145deg,#0d1117,#1f0f0f);
+  box-shadow: 0 4px 15px rgba(255, 75, 75, 0.3);
+  transition: all 0.3s ease;">
+<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="80" style="border-radius:10px;" />
 <h3 style="color:#ff4b4b;">🛡️ Spam Detector</h3>
-<p style="color:#c9d1d9;">ML-powered intelligent email filtering with live prediction graphs.</p>
+<p style="color:#c9d1d9; font-size: 14px;">ML-powered intelligent email filtering with live prediction graphs.</p>
 <img src="https://img.shields.io/badge/Tech-Python%20%7C%20TensorFlow%20%7C%20Streamlit-red?style=flat-square"/>
 </div>
 </a>
@@ -127,17 +148,18 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1046prt&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="180"/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/1046prt?theme=tokyonight)](https://git.io/awesome-stats-card)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1046prt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="180"/>
-
-
-</div>
-
----
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1046prt&theme=tokyonight)](https://github.com/1046prt)
+
+## 🌐 Tech Stack Overview
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1046prt&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+</div>
 
 ---
 
@@ -163,27 +185,32 @@
 
 ### Fun Facts About Me
 
-```bash
-const prakashRaj = {
-  code: ["JavaScript", "Python", "TypeScript", "CSS"],
-  loves: ["Coffee ☕", "Dark Mode 🌙", "Clean Code 🧹", "Gaming 🎮"],
-  currentlyLearning: "WebAssembly & Rust 🦀",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄",
-  motto: "Code with passion, design with purpose! 🚀"
-};
-```
+<p align="left">
+  <kbd>💻 JavaScript</kbd>
+  <kbd>🐍 Python</kbd>
+  <kbd>📜 TypeScript</kbd>
+  <kbd>🎨 CSS</kbd>
+  <br>
+  <kbd>☕ Coffee</kbd>
+  <kbd>🌙 Dark Mode</kbd>
+  <kbd>🧹 Clean Code</kbd>
+  <kbd>🎮 Gaming</kbd>
+  <br>
+  <kbd>🦀 Rust</kbd>
+  <kbd>⚡ WebAssembly</kbd>
+</p>
 
 
+<h3>💬 Let's Build Something Amazing Together!</h3>
 
-### **💬 Let's Build Something Amazing Together!**
+<p>
+  <kbd>🚀 Freelance Projects</kbd>
+  <kbd>🤝 Collaborations</kbd>
+  <kbd>🎯 Hackathons</kbd>
+  <kbd>💡 Innovative Ideas</kbd>
+  <kbd>🌟 Open Source Contributions</kbd>
+</p>
 
-**Open to:**
-
-- 🚀 Freelance Projects
-- 🤝 Collaborations
-- 🎯 Hackathons
-- 💡 Innovative Ideas
-- 🌟 Open Source Contributions
 
 </div>
 
