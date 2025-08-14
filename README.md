@@ -84,6 +84,24 @@
 
 <!-- Project Card 2 -->
 <td width="50%">
+<a href="https://github.com/1046prt/Student_Management_System" target="_blank">
+<div align="center" style="
+  padding:15px;
+  border-radius:15px;
+  background:linear-gradient(145deg,#0d1117,#112221);
+  box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3);
+  transition: all 0.3s ease;">
+<img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="80" style="border-radius:10px;" />
+<h3 style="color:#64ffda;">🎓 Student Registration System</h3>
+<p style="color:#c9d1d9; font-size: 14px;">Course registration system with dark/light mode & custom icons.</p>
+<img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-lightgrey?style=flat-square"/>
+</div>
+</a>
+</td>
+
+<tr>
+<!-- Project Card 3 -->
+<td width="50%">
 <a href="https://github.com/1046prt/stock" target="_blank">
 <div align="center" style="
   padding:15px;
@@ -95,26 +113,6 @@
 <h3 style="color:#ffd700;">📈 Stock Dashboard</h3>
 <p style="color:#c9d1d9; font-size: 14px;">Real-time stock analysis with interactive charts & live updates.</p>
 <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Astro%20%7C%20Chart.js-orange?style=flat-square"/>
-</div>
-</a>
-</td>
-
-</tr>
-<tr>
-
-<!-- Project Card 3 -->
-<td width="50%">
-<a href="https://github.com/1046prt/Student_Management_System" target="_blank">
-<div align="center" style="
-  padding:15px;
-  border-radius:15px;
-  background:linear-gradient(145deg,#0d1117,#112221);
-  box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3);
-  transition: all 0.3s ease;">
-<img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="80" style="border-radius:10px;" />
-<h3 style="color:#64ffda;">🎓 Student Management System</h3>
-<p style="color:#c9d1d9; font-size: 14px;">Course registration system with dark/light mode & custom icons.</p>
-<img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-lightgrey?style=flat-square"/>
 </div>
 </a>
 </td>
@@ -227,4 +225,4 @@
 
 ---
 
-**⭐ By [Prakash Raj](https://github.com/1046prt)**
+**⭐ By *[Prakash Raj](https://github.com/1046prt)* **
