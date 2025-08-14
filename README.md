@@ -2,7 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+Prakash+Raj|;Data+Scientist+%26+Full+Stack+Dev)
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
@@ -37,7 +36,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design & Styling
 
@@ -55,8 +54,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-</div>
----
+## </div>
 
 ## 🎨 Featured Projects
 
@@ -139,7 +137,6 @@
 
 </div>
 
-
 ---
 
 ## 📊 GitHub Analytics
@@ -153,9 +150,8 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1046prt&theme=tokyonight)](https://github.com/1046prt)
 
 ## 🌐 Tech Stack Overview
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1046prt&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 </div>
 
@@ -198,7 +194,6 @@
   <kbd>⚡ WebAssembly</kbd>
 </p>
 
-
 <h3>💬 Let's Build Something Amazing Together!</h3>
 
 <p>
@@ -208,7 +203,6 @@
   <kbd>💡 Innovative Ideas</kbd>
   <kbd>🌟 Open Source Contributions</kbd>
 </p>
-
 
 </div>
 
@@ -225,4 +219,4 @@
 
 ---
 
-**⭐ By *[Prakash Raj](https://github.com/1046prt)* **
+**⭐ By _[Prakash Raj](https://github.com/1046prt)_ **
