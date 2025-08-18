@@ -219,4 +219,4 @@
 
 ---
 
-**⭐ By _[Prakash Raj](https://github.com/1046prt)_ **
+**⭐ By [Prakash Raj](https://github.com/1046prt)**
