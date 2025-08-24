@@ -188,9 +188,7 @@
   <kbd>☕ Coffee</kbd>
   <kbd>🌙 Dark Mode</kbd>
   <kbd>🧹 Clean Code</kbd>
-  <kbd>🎮 Gaming</kbd>
   <br>
-  <kbd>🦀 Rust</kbd>
   <kbd>⚡ WebAssembly</kbd>
 </p>
 
