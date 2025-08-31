@@ -65,24 +65,24 @@
 
 <!-- Project Card 1 -->
 <td width="50%">
-<a href="https://github.com/1046prt/abcd" target="_blank">
+<a href="https://github.com/1046prt/WorldExplorer" target="_blank">
 <div align="center" style="
   padding:15px;
   border-radius:15px;
   background:linear-gradient(145deg,#0d1117,#0f172a);
   box-shadow: 0 4px 15px rgba(0, 217, 255, 0.3);
   transition: all 0.3s ease;">
-<img src="https://github.com/1046prt/abcd/blob/main/public/assets/icons/logo.svg" width="80" style="border-radius:10px;" />
-<h3 style="color:#00d9ff;">🎮 abcdkbd Platform</h3>
-<p style="color:#c9d1d9; font-size: 14px;">Multilingual Interactive Learning Hub for Kids with games, audio feedback & animations.</p>
-<img src="https://img.shields.io/badge/Tech-React%20%7C%20Astro%20%7C%20Tailwind-blue?style=flat-square"/>
+<img src="https://cdn-icons-png.flaticon.com/512/869/869636.png" width="80" style="border-radius:10px;" />
+<h3 style="color:#00d9ff;">🌍 WorldExplorer</h3>
+<p style="color:#c9d1d9; font-size: 14px;">Educational platform for exploring countries, cultures & landmarks with maps, quizzes & tools.</p>
+<img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20TypeScript%20%7C%20Tailwind-blue?style=flat-square"/>
 </div>
 </a>
 </td>
 
 <!-- Project Card 2 -->
 <td width="50%">
-<a href="https://github.com/1046prt/Student_Management_System" target="_blank">
+<a href="https://github.com/1046prt/BrandHub" target="_blank">
 <div align="center" style="
   padding:15px;
   border-radius:15px;
@@ -90,44 +90,83 @@
   box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3);
   transition: all 0.3s ease;">
 <img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="80" style="border-radius:10px;" />
-<h3 style="color:#64ffda;">🎓 Student Registration System</h3>
-<p style="color:#c9d1d9; font-size: 14px;">Course registration system with dark/light mode & custom icons.</p>
+<h3 style="color:#64ffda;">🏷️ Brand Hub</h3>
+<p style="color:#c9d1d9; font-size: 14px;">Dynamic platform to explore brands by category with search, filters & Firebase integration.</p>
 <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-lightgrey?style=flat-square"/>
 </div>
 </a>
 </td>
 
+</tr>
 <tr>
+
 <!-- Project Card 3 -->
 <td width="50%">
-<a href="https://github.com/1046prt/stock" target="_blank">
+<a href="https://github.com/1046prt/Portfolio" target="_blank">
 <div align="center" style="
   padding:15px;
   border-radius:15px;
   background:linear-gradient(145deg,#0d1117,#1a1f2e);
   box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);
   transition: all 0.3s ease;">
-<img src="https://cdn-icons-png.flaticon.com/512/2331/2331947.png" width="80" style="border-radius:10px;" />
-<h3 style="color:#ffd700;">📈 Stock Dashboard</h3>
-<p style="color:#c9d1d9; font-size: 14px;">Real-time stock analysis with interactive charts & live updates.</p>
-<img src="https://img.shields.io/badge/Tech-Python%20%7C%20Astro%20%7C%20Chart.js-orange?style=flat-square"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" style="border-radius:10px;" />
+<h3 style="color:#ffd700;">💼 Portfolio Website</h3>
+<p style="color:#c9d1d9; font-size: 14px;">Personal portfolio built with Astro, featuring blog, projects showcase, and smooth animations.</p>
+<img src="https://img.shields.io/badge/Tech-Astro%20%7C%20TypeScript%20%7C%20CSS-orange?style=flat-square"/>
 </div>
 </a>
 </td>
 
 <!-- Project Card 4 -->
 <td width="50%">
-<a href="https://github.com/1046prt/spam_detector" target="_blank">
+<a href="https://github.com/1046prt/digital-menu-system" target="_blank">
 <div align="center" style="
   padding:15px;
   border-radius:15px;
   background:linear-gradient(145deg,#0d1117,#1f0f0f);
   box-shadow: 0 4px 15px rgba(255, 75, 75, 0.3);
   transition: all 0.3s ease;">
-<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="80" style="border-radius:10px;" />
-<h3 style="color:#ff4b4b;">🛡️ Spam Detector</h3>
-<p style="color:#c9d1d9; font-size: 14px;">ML-powered intelligent email filtering with live prediction graphs.</p>
-<img src="https://img.shields.io/badge/Tech-Python%20%7C%20TensorFlow%20%7C%20Streamlit-red?style=flat-square"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="80" style="border-radius:10px;" />
+<h3 style="color:#ff4b4b;">🍽️ QuickBite</h3>
+<p style="color:#c9d1d9; font-size: 14px;">Interactive food ordering system with 100+ items, cart, and full checkout flow.</p>
+<img src="https://img.shields.io/badge/Tech-Astro%20%7C%20React%20%7C%20Tailwind-red?style=flat-square"/>
+</div>
+</a>
+</td>
+
+</tr>
+<tr>
+
+<!-- Project Card 5 -->
+<td width="50%">
+<a href="https://github.com/1046prt/luxury-car-explorer" target="_blank">
+<div align="center" style="
+  padding:15px;
+  border-radius:15px;
+  background:linear-gradient(145deg,#0d1117,#14202e);
+  box-shadow: 0 4px 15px rgba(0, 180, 255, 0.3);
+  transition: all 0.3s ease;">
+<img src="https://cdn-icons-png.flaticon.com/512/743/743922.png" width="80" style="border-radius:10px;" />
+<h3 style="color:#00b4ff;">🚗 Car Explorer Dashboard</h3>
+<p style="color:#c9d1d9; font-size: 14px;">Streamlit dashboard for luxury car insights with filters, charts, and data downloads.</p>
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20Streamlit%20%7C%20Pandas-blue?style=flat-square"/>
+</div>
+</a>
+</td>
+
+<!-- Project Card 6 -->
+<td width="50%">
+<a href="https://github.com/1046prt/midnight_drip" target="_blank">
+<div align="center" style="
+  padding:15px;
+  border-radius:15px;
+  background:linear-gradient(145deg,#0d1117,#221f0f);
+  box-shadow: 0 4px 15px rgba(200, 150, 75, 0.3);
+  transition: all 0.3s ease;">
+<img src="https://cdn-icons-png.flaticon.com/512/924/924514.png" width="80" style="border-radius:10px;" />
+<h3 style="color:#c8964b;">☕ Midnight Drip</h3>
+<p style="color:#c9d1d9; font-size: 14px;">Responsive landing page for a fictional coffee brand with smooth UI & product showcase.</p>
+<img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-brown?style=flat-square"/>
 </div>
 </a>
 </td>
@@ -144,14 +183,22 @@
 <div align="left">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/1046prt?theme=tokyonight)](https://git.io/awesome-stats-card)
-
-## 🔥 GitHub Streak
-
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1046prt&theme=tokyonight)](https://github.com/1046prt)
 
-## 🌐 Tech Stack Overview
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1046prt&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🎮 Coding Stats & Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1046prt&theme=github_dark" width="100%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1046prt&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1046prt&theme=github_dark" width="48%"/>
 
 </div>
 
@@ -219,4 +266,4 @@
 
 ---
 
-**⭐ By _[Prakash Raj](https://github.com/1046prt)_ **
+**⭐ _[Prakash Raj](https://github.com/1046prt)_**
